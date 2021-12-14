@@ -1,0 +1,2 @@
+.goods-list{justify-content:center;text-align:center;width:200px}.goods-list,.goods-list__list{display:flex;flex-direction:column}.goods-list__list{margin:0 auto;list-style:none;padding-left:0}.goods-list__list-item{width:-webkit-max-content;width:max-content;text-align:left;font-size:20px}.goods-list__buttons{display:flex;flex-direction:column}.goods-list__button{margin-bottom:15px}.button{padding:10px;cursor:pointer;min-width:200px}
+/*# sourceMappingURL=main.c140ec49.chunk.css.map */
